@@ -19,7 +19,7 @@ User data is saved in cookies to keep you "logged in." Create a user to start po
 
 ![Users Screenshot](assets/user.png)
 
-* * *
+────────────────────────────────────────────
 
 ### 🕷️ **Home Page**
 Explore all posts sorted by hero roles — Tank, Damage, and Support. It's your one-stop hub for advice and assistance! 
@@ -27,7 +27,7 @@ Explore all posts sorted by hero roles — Tank, Damage, and Support. It's your 
 ![Home Page Screenshot](assets/homepage1.png)
 ![Home Page 2 Screenshot](assets/homepage2.png)
 
-* * *
+────────────────────────────────────────────
 
 ### 🚀 **Posts**
 All players can create two types of posts:
@@ -44,7 +44,7 @@ Posts are neatly sorted onto their respective pages.
 
 ![Post Screenshot](assets/post.png)
 
-* * *
+────────────────────────────────────────────
 
 ### 🏹 **Comments**
 Players can:
@@ -55,7 +55,7 @@ But remember: only **one comment per user** per post. Play fair!
 
 ![Comment Screenshot](assets/comment.png)
 
-* * *
+────────────────────────────────────────────
 
 ### 🦊 **Gamers**
 Gamers are anyone who create advice posts. Your advice rating determines your **Gamer Board ranking** — the higher the rating, the more valuable your insights are to the community!
@@ -63,7 +63,7 @@ Gamers are anyone who create advice posts. Your advice rating determines your **
 ![Gamers Screenshot](assets/gamers.png)
 ![Gamers 2 Screenshot](assets/gamers2.png)
 
-* * *
+────────────────────────────────────────────
 
 ### 🛡️ **Preventing Fake Reviews**
 To keep things honest, we've implemented measures to detect and stop fake reviews:  
