@@ -1,52 +1,50 @@
 # 🐰 Nerf This
 Welcome to **Nerf This**! Whether you're a seasoned Overwatch hero looking to share your knowledge or a new recruit seeking guidance, this website is your go-to payload for all things Overwatch.
 
+
 ---
 
+
 ## ⏳ About This Project
-Hi there! This website was my entry point into the world of Laravel, so while it may not use the full power of the framework, it still packs a punch with some cool features:
+Hi there! This website was my entry point into the world of Laravel, so while it may not use the full power of the framework, it still packs a punch with some cool features. This Overwatch-themed website is all about sharing advice and seeking help to enhance your gameplay and level up your skills!
+With two types of posts, players can share **Advice** or request **Assistance**, specifying the gaming platform, role, and hero.  
 
-- **Two Post Types:** Players can share **Advice** or request **Assistance**, specifying the gaming platform, role, and hero.  
-
-- **Advice Posts:** Share your hard-earned tips and show off your total hours in the game!
-![Advice Page Screenshot](assets/advicepost.png)
-![Advice Page 2 Screenshot](assets/advicepost2.png)
-
-- **Assistance Posts:** Need help climbing the ranks or mastering your favorite hero? Post your query and let the community support you!
-![Assist Page Screenshot](assets/assistpost.png)
-![Assist Page 2 Screenshot](assets/assistpost2.png)
 
 ---
 
 ## 🎮 Features
-
---
 
 ### 🐉 **Users**
 User data is saved in cookies to keep you "logged in." Create a user to start posting and commenting. Your in-game hours will proudly display your experience to others.
 
 ![Users Screenshot](assets/user.png)
 
---
+***
 
 ### 🕷️ **Home Page**
-All types of posts are displayed here and sorted by hero roles — Tank, Damage, and Support.
+Explore all posts sorted by hero roles — Tank, Damage, and Support. It's your one-stop hub for advice and assistance! 
 
 ![Home Page Screenshot](assets/homepage1.png)
 ![Home Page 2 Screenshot](assets/homepage2.png)
 
---
+***
 
 ### 🚀 **Posts**
-All players can create two types of posts:  
-- **Advice Posts** for sharing strategies and insights.  
-- **Assistance Posts** for asking questions and receiving help from fellow players.
+All players can create two types of posts:
+
+- **Advice Posts** for sharing strategies and insights. Help the Overwatch community step up their game! 
+![Advice Page Screenshot](assets/advicepost.png)
+![Advice Page 2 Screenshot](assets/advicepost2.png)
+
+- **Assistance Posts:** for those needing help climbing the ranks or mastering their favourite hero. Post your query and let the community support you!
+![Assist Page Screenshot](assets/assistpost.png)
+![Assist Page 2 Screenshot](assets/assistpost2.png)
 
 Posts are neatly sorted onto their respective pages.
 
 ![Post Screenshot](assets/post.png)
 
---
+***
 
 ### 🏹 **Comments**
 Players can:
@@ -57,7 +55,7 @@ But remember: only **one comment per user** per post. Play fair!
 
 ![Comment Screenshot](assets/comment.png)
 
---
+***
 
 ### 🦊 **Gamers**
 Gamers are anyone who create advice posts. Your advice rating determines your **Gamer Board ranking** — the higher the rating, the more valuable your insights are to the community!
@@ -65,7 +63,7 @@ Gamers are anyone who create advice posts. Your advice rating determines your **
 ![Gamers Screenshot](assets/gamers.png)
 ![Gamers 2 Screenshot](assets/gamers2.png)
 
---
+***
 
 ### 🛡️ **Preventing Fake Reviews**
 To keep things honest, we've implemented measures to detect and stop fake reviews:  
@@ -79,12 +77,14 @@ To keep things honest, we've implemented measures to detect and stop fake review
 
 Don't worry, you can still browse the website even if you're banned from commenting!  
 
---
+
+---
 
 ## 🛠️ **Tech Stack**
 - **Backend:** Laravel (PHP)  
 - **Frontend:** Blade templates, CSS, HTML  
 - **Database:** MySQL  
+
 
 ---
 
